@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1544099685 source:/home/jp/Documentos/Estrutura de Dados/Trabalho3/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<stdlib.h>
+	<vector>
+
